@@ -1,1 +1,1 @@
-This is my jenkins project run a pipeline using maven and tomcat.
+This is my jenkins project run a pipeline using maven and tomcat aws-ec2
